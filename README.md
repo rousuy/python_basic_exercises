@@ -16,5 +16,5 @@ $ git push origin main
 $ poetry install
 ```
 > Aviso: *Por favor note que isto irá instalar pacotes do python em sua máquina. 
-> Recomendo criar um Ambiente Virtual, antes da instalação de qualquer pacote,
+> Recomendo criar um Ambiente Virtual, antes da instalação de qualquer pacote
 > para evitar conflitos*.
